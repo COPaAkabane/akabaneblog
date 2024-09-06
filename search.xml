@@ -29,6 +29,14 @@
 <li>路由器的基本功能：是实现不同 IP 网段的互访。</li>
 </ul>
 <p><img src="https://resources.akabane.blog/resources/20240906194804.webp" alt="路由器将不同的广播域连接起来，实现跨子网互访。"></p>
+<h2 id="防火墙"><a href="#防火墙" class="headerlink" title="防火墙"></a>防火墙</h2><ul>
+<li>防火墙：是网络安全设备，用于控制两个网络之间的安全通信。它通过监测、限制、更改跨防火墙的数据流，尽可能的对外部屏蔽网络内部的信息<br>结构和运行状况，以此来实现对网络的安全保护。</li>
+</ul>
+<p><img src="https://resources.akabane.blog/resources/20240906203036.webp" alt="防火墙"></p>
+<ul>
+<li>防火墙的基本功能：是实现不同 IP 网段的互访的同时在广播域之间的隔离、流量控制、入侵检测、数据加解密、上网行为管理等功能。</li>
+</ul>
+<p><img src="https://resources.akabane.blog/resources/20240906202117.webp" alt="防火墙将不同的广播域连接起来，实现跨子网互访同时在不同的广播域之间实现流量的访问控制，入侵检测，数据加解密，上网行为的管理等一些安全增资服务。"></p>
 ]]></content>
       <categories>
         <category>计算机网络笔记</category>
