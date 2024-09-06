@@ -1,24 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/archives/hello-world.html</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>网络通信基本概念</title>
     <url>/archives/Huawei-Certified-ICT-Associate-100.html</url>
     <content><![CDATA[<h1 id="网络通信基本概念"><a href="#网络通信基本概念" class="headerlink" title="网络通信基本概念"></a>网络通信基本概念</h1><p>通信：是指人与人，人与物，物与物之间通过某种媒介和行为进行的信息传递与交流。<br>网络通信：是指终端设备之间通过计算机网络进行的通信。</p>
@@ -39,26 +21,9 @@
 <p>防火墙的基本功能：是实现不同 IP 网段的互访的同时在广播域之间的隔离、流量控制、入侵检测、数据加解密、上网行为管理等功能。</p>
 <p><img src="https://resources.akabane.blog/resources/20240906202117.webp" alt="防火墙将不同的广播域连接起来，实现跨子网互访同时在不同的广播域之间实现流量的访问控制，入侵检测，数据加解密，上网行为的管理等一些安全增资服务。"></p>
 <h1 id="局域网、城域网、广域网"><a href="#局域网、城域网、广域网" class="headerlink" title="局域网、城域网、广域网"></a>局域网、城域网、广域网</h1><p>按照地理覆盖范围来划分，网络可以分为局域网（Local Area Network）、城域网（Metropolitan）和广域网（Wide Area Network）。</p>
-<ul>
-<li><p>局域网（LAN）：</p>
-<ul>
-<li>在某一地理区域内由计算机、服务器以及各种网络设备组成的网络。局域网的覆盖一般是方圆几千米以内。</li>
-<li>典型的局域网有：一家公司的办公网络，一个网吧的网络，一个家庭网络等。</li>
-</ul>
-</li>
-<li><p>城域网（MAN）:</p>
-<ul>
-<li>在一个城市范围所建立的计算机通信网络。</li>
-<li>典型的城域网有：宽带城域网、教育城域网、市级或省级电子政务专网等。</li>
-</ul>
-</li>
-<li><p>广域网（WAN）：</p>
-<ul>
-<li>通常覆盖很大的地理范围。从几十公里到几千公里。它能连接多个城市甚至国家，并能提供远距离通信，形成国际性的大型网络。</li>
-<li>典型的广域网有：Internet（因特网）。</li>
-</ul>
-</li>
-</ul>
+<p><strong>局域网（LAN）：</strong><br>在某一地理区域内由计算机、服务器以及各种网络设备组成的网络。局域网的覆盖一般是方圆几千米以内。<br>典型的局域网有：一家公司的办公网络，一个网吧的网络，一个家庭网络等。</p>
+<p><strong>城域网（MAN）:</strong><br>在一个城市范围所建立的计算机通信网络。<br>典型的城域网有：宽带城域网、教育城域网、市级或省级电子政务专网等。</p>
+<p><strong>广域网（WAN）：</strong><br>通常覆盖很大的地理范围。从几十公里到几千公里。它能连接多个城市甚至国家，并能提供远距离通信，形成国际性的大型网络。<br>典型的广域网有：Internet（因特网）。</p>
 ]]></content>
       <categories>
         <category>计算机网络笔记</category>
@@ -66,5 +31,23 @@
       <tags>
         <tag>Huawei Certified ICT Associate</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/archives/hello-world.html</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
   </entry>
 </search>
