@@ -1,6 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>网络通信基本概念</title>
+    <url>/archives/Huawei-Certified-ICT-Associate-100.html</url>
+    <content><![CDATA[<h1 id="网络通信基本概念"><a href="#网络通信基本概念" class="headerlink" title="网络通信基本概念"></a>网络通信基本概念</h1><ul>
+<li>通信：是指人与人，人与物，物与物之间通过某种媒介和行为进行的信息传递与交流。</li>
+<li>网络通信：是指终端设备之间通过计算机网络进行的通信。</li>
+</ul>
+<h2 id="网络通信的例子"><a href="#网络通信的例子" class="headerlink" title="网络通信的例子"></a>网络通信的例子</h2><p><img src="https://resources.akabane.blog/resources/20240906191157.webp" alt="A. 两台计算机终端使用网线相连接实现同子网通信"></p>
+<p><img src="https://resources.akabane.blog/resources/20240906191158.webp" alt="B. 多台计算机终端通过路由器相连接实现跨子网通信"></p>
+<h1 id="数据通信网络基本概念"><a href="#数据通信网络基本概念" class="headerlink" title="数据通信网络基本概念"></a>数据通信网络基本概念</h1><ul>
+<li>数据通信网络：是由路由器、交换机、防火墙、无线控制器、无线接入点、以及个人电脑、网络打印机、服务器等设备构成的通信网络。</li>
+</ul>
+<p><img src="https://resources.akabane.blog/resources/20240906191159.webp" alt="数据通信网络基本概念"></p>
+<h1 id="网络设备"><a href="#网络设备" class="headerlink" title="网络设备"></a>网络设备</h1><h2 id="交换机"><a href="#交换机" class="headerlink" title="交换机"></a>交换机</h2><ul>
+<li>交换机：是距离终端用户最近的设备，用于终端用户接入网络、对数据帧进行交换等。</li>
+</ul>
+<p><img src="https://resources.akabane.blog/resources/20240906191162.webp" alt="交换机"></p>
+<ul>
+<li>交换机的基本功能：是实现同 IP 网段互访。</li>
+</ul>
+<p><img src="https://resources.akabane.blog/resources/20240906194809.webp" alt="交换机将 PC 接入到一个广播域，广播域中的主机IP地址设置为同一个网段的地址，即可实现通信。"></p>
+<h2 id="路由器"><a href="#路由器" class="headerlink" title="路由器"></a>路由器</h2><ul>
+<li>路由器：是网络层设备，可以在因特网中进行数据报文转发。路由器根据所收到的报文的目的地址选择一条合适的路径，将报文传送到下一个路由器或目的地，路径中左后的路由器负责将报文送交目的主机。</li>
+</ul>
+<p><img src="https://resources.akabane.blog/resources/20240906194805.webp" alt="路由器"></p>
+<ul>
+<li>路由器的基本功能：是实现不同 IP 网段的互访。</li>
+</ul>
+<p><img src="https://resources.akabane.blog/resources/20240906194804.webp" alt="路由器将不同的广播域连接起来，实现跨子网互访。"></p>
+]]></content>
+      <categories>
+        <category>计算机网络笔记</category>
+      </categories>
+      <tags>
+        <tag>Huawei Certified ICT Associate</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/archives/hello-world.html</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
